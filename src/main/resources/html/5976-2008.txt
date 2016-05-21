@@ -1,0 +1,58 @@
+Justitieombudsmannen Kerstin André
+
+BESLUT
+Datum 2010-01-29
+
+Dnr 5976-2008
+
+Sid 1 (4)
+
+Initiativ mot en länsrätt angående anonymisering av parter i en dom angående vård enligt lagen (1990:52) med särskilda bestämmelser om vård av unga, LVU
+Initiativet Vid JO:s inspektion av Länsrätten i Gotlands län den 1­3 oktober 2008 (JO:s dnr 5094-2008) uppmärksammades vid granskningen av domböckerna bl.a. en dom om vård enligt LVU i vilken vårdnadshavaren och den unge hade angivits som XX och YY.
+I inspektionsprotokollet antecknades under rubriken "Beslut om tvångsvård angående helt anonymiserade personer" följande.
+Vid granskningen av domböckerna uppmärksammades bl.a. följande. I ett mål rörande beredande av vård enligt LVU hade antecknats att vårdnadshavaren och den unge hade sekretessbelagda uppgifter (länsrättens dom den 20 december 2007 i mål nr 1170-07). Av akten i målet framgick att socialnämnden endast hade angivit att vårdnadshavaren och den unge hade skyddade adressuppgifter. Kristina Wirdemark upplyste att länsrätten hade kontrollerat nämndens uppgift om sekretess mot Statens personadressregister (SPAR). Vidsökning på de aktuella personnumren angavs att vårdnadshavaren och den unge hade skyddade personuppgifter, vilket innebär att inte någon information om de berörda visas i registret. Att en sådan kontroll hade gjorts hade inte dokumenterats i akten. När länsrätten under inspektionen gjorde en ny kontroll mot SPAR hade vårdnadshavaren, men inte den unge, skyddade personuppgifter.
+I domen, genom vilken den unge bereddes vård enligt LVU, hade vårdnadshavaren och den unge endast angivits som X X och Y Y. Det gick med andra ord inte att av domen utläsa vem som var föremål för den aktuella tvångsåtgärden. Fråga uppkommer således om det är möjligt att, i en dom om beredande av vård enligt LVU, underlåta att ange den som tvångsåtgärden avser. Jag beslutar att ta upp saken till utredning i ett särskilt ärende (JO:s dnr5976-2008). I samband därmed bör länsrätten även anmodas att inkomma med utredning och yttrande över rutinerna för och dokumentationen av kontroller då uppgift lämnas till länsrätten om att en person har skyddade personuppgifter.
+Utredning
+Länsrätten anmodades att inkomma med utredning och yttrande i enlighet med vad som i protokollet anförts under rubriken "Beslut om tvångsvård angående helt anonymiserade personer".
+
+Riksdagens ombudsmän Box 16327 103 26 Stockholm Besök: Västra Trädgårdsgatan 4
+
+E-post: Telefon: Texttelefon: Fax:
+
+justitieombudsmannen@jo.se 08-786 40 00 08-786 61 15 08-21 65 58
+
+www.jo.se
+
+Dnr 5976-2008 Sid 2 (4)
+I yttrande anförde lagmannen Peter Freudenthal följande.
+1. Rutinerna för och dokumentationen av kontroller av skyddade personuppgifter
+Länsrättens rutiner i detta avseende ser ut på följande sätt. När ett mål inkommer i vilket socialnämnden anger att en eller flera personer har skyddade personuppgifter görs en kontroll mot Statens person- och adressregister (SPAR). En utskrift av de uppgifter som erhålls tas ut för var och en av personerna och läggs i akten som memorial, men utskrifterna aktbilageras inte. Personerna registreras tills vidare som t.ex. X och Y. När målet avslutas genom lagakraftvunnet avgörande rensas utskrifterna bort. Samtliga dessa åtgärder vidtas av kanslipersonal.
+2. Möjligheten att i dom om vård enligt LVU utelämna namn på parterna
+Länsrättens uppfattning är, att det inte är möjligt att underlåta att i domen ange vem tvångsåtgärden avser. Fråga är emellertid hur detta ska eller kan anges.
+I de fall en part har skyddade personuppgifter gör länsrätten en prövning av om namnet kan anges i domshuvudet eller inte. Avgörande här är vad som framkommer om anledningen till att den enskilde har skyddade personuppgifter. I de fall namnet befinns inte kunna anges i domshuvudet anges namnet istället i en bilaga till domen, för vilken förordnas sekretess enligt 12 kap. 4 §sekretesslagen (motsvarar 43 kap. 8­ 10 §§ offentlighets- och sekretesslagen[2009:400], JO:s anm.) och vilken bilaga inte intas i domboken. I det mål som JO granskat, mål nr 1170-07, har länsrätten fått uppgifter om att vårdnadshavaren och hennes barn "flytt" till Gotland för att undkomma allvarliga hot och trakasserier, varför länsrätten funnit att namnen inte kunde anges i domshuvudet. Ett beklagligt misstag i strid mot gällande rutiner har emellertid i detta fall lett till att den bilaga som bort fogas till domen fallit bort. Domen har således kommit att bli helt anonymiserad och namnen på vårdnadshavaren och barnet har endast kunnat utläsas av akten i målet. Det är naturligtvis inte acceptabelt. Länsrätten kan nu inte annat än beklaga detta misstag. Det ska inte hända igen.
+Länsrätten har vid närmare övervägande av den uppkomna situationen kommit fram till att det är lämpligt att i målet dokumentera den kontroll som gjorts mot SPAR och därvid kunnat konstatera huruvida skyddade personuppgifter föreligger för att man i efterhand skall kunna följa handläggningen. Länsrätten kommer att tillföra detta moment gällande rutiner.
+I ett beslut den 29 januari 2010 anförde JO André följande.
+Bedömning
+Sekretesslagen (1980:100) har den 30 juni 2009 ersatts av offentlighets- och sekretesslagen (2009:400), OSL. Jag hänför mig i det följande till den nya lagen, som i berört hänseende inte har inneburit några sakliga ändringar.
+I 22 kap. 1 § OSL stadgas att sekretess gäller i verksamhet som avser folkbokföringen eller annan liknande registrering av befolkningen och, i den utsträckning regeringen meddelar föreskrifter om det, i annan verksamhet som avser registrering av en betydande del av befolkningen, för uppgift om en enskilds personliga förhållanden, om det av särskild anledning kan antas att den enskilde eller någon närstående till denne lider men om uppgiften röjs.
+Får en domstol i sin rättskipande eller rättsvårdande verksamhet från en domstol eller en annan myndighet en sekretessreglerad uppgift, blir sekretessbestämmelsen
+
+Dnr 5976-2008 Sid 3 (4)
+som huvudregel tillämplig även hos den mottagande domstolen (se 43 kap. 2 § OSL; jfr dock 3 § i samma kapitel).
+En sekretessbestämmelse som gäller för en uppgift i ett mål eller ett ärende i en domstols rättskipande eller rättsvårdande verksamhet upphör enligt 43 kap. 8 § första stycket OSL att vara tillämplig om uppgiften tas in i en dom eller ett annat beslut i samma mål eller ärende. Om rätten finner att en uppgift i domen eller beslutet även fortsättningsvis bör vara sekretesskyddad måste domstolen därför, enligt 43 kap. 8 § andra stycket, förordna i domen eller beslutet att den aktuella sekretessbestämmelsen ska vara tillämplig även i fortsättningen.
+Av 30 § förvaltningsprocesslagen (1971:291) följer att det av en dom eller ett annat beslut som innebär att målet avgörs ska framgå de skäl som bestämt utgången.
+Vilka övriga uppgifter som en dom meddelad av Regeringsrätten, en kammarrätt eller en länsrätt ska innehålla framgår av 32 § förordningen (1979:575) om protokollföring m.m. vid de allmänna förvaltningsdomstolarna. I den bestämmelsen stadgas bl.a. att det i en dom, eller ett annat beslut som sätts upp särskilt, ska anges
+1. domstolen samt tid och plats för meddelande av domen eller beslutet,
+2. parterna samt deras ombud eller biträden,
+3. kort beteckning av saken, samt
+4. parternas yrkanden och invändningar.
+I en dom måste således bl.a. parterna anges. Det finns inte någon bestämmelse som reglerar vilka uppgifter beträffande parterna som därvid ska anges. Enligt stadgad domstolspraxis anges i domen, när det gäller fysiska personer, parternas namn, personnummer och adress. Syftet med att ange parterna i domen är givetvis att dessa ska kunna identifieras så att domen kan verkställas.
+Vad som nu sagts innebär att det inte är möjligt att i en dom helt anonymisera en eller flera parter. Som redan framgått kan domstolen emellertid förordna om sekretess för någon uppgift i domen, t.ex. en parts personuppgifter.
+Vid de allmänna förvaltningsdomstolarna förekommer ett stort antal måltyper. Detta innebär bl.a. att dessa domstolar i sin rättskipande verksamhet hanterar många olika slags uppgifter som kan aktualisera tillämpning av ett flertal sekretessbestämmelser. Den rent praktiska hanteringen av sekretess i domar och beslut måste därför ytterst anses vara en lämplighetsfråga som varje domstol självständigt har att ta ställning till. Rutinen med domsbilaga som länsrätten har redogjort för i sitt remissvar är säkerligen väl lämpad i många fall medan någon annan metod måhända passar bättre i andra fall (jfr avsnitt 3.7 i Domstolsverkets "Kanslihandbok förvaltningsdomstol").
+
+Dnr 5976-2008 Sid 4 (4)
+Som länsrätten medgett har domstolen i detta fall brustit genom att helt utelämna vårdnadshavarens och den unges personuppgifter i domen. Praktiskt hade sekretessen kunnat hanteras t.ex. på det sätt som länsrätten har redogjort för i sitt remissvar, dvs. genom att låta de sekretesskyddade personuppgifterna framgå av en särskild domsbilaga som inte skulle ha förvarats i domboken utan på särskilt ställe. En förutsättning för att sekretesskyddet för uppgifter som tas in i domar och beslut ska bestå är, som redan framgått, att domstolen förordnar om detta. Oavsett hur man valt att praktiskt hantera saken skulle länsrätten därför ha meddelat ett särskilt förordnande om att sekretessen enligt dåvarande 7 kap. 15 § sekretesslagen (motsvarande 22 kap. 1 § OSL) för de aktuella personuppgifterna även fortsättningsvis skulle gälla. Jag förutsätter att det har varit fråga om ett enstaka misstag och lämnar saken med de uttalanden som har gjorts.
+Avslutningsvis instämmer jag i länsrättens bedömning att en kontroll mot SPAR med anledning av att domstolen fått uppgift om att en person har skyddade personuppgifter, är en sådan åtgärd under handläggningen av ett mål som bör framgå av dokumentationen i målet (jfr 23 § förordningen om protokollföring m.m. vid de allmänna förvaltningsdomstolarna).
+Ärendet avslutas med den kritik som ligger i det anförda.
+
+

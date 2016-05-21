@@ -1,0 +1,48 @@
+Justitieombudsmannen Cecilia Nordenfelt
+
+BESLUT
+Datum 2008-01-21
+
+Dnr 4778-2006
+
+Sid 1 (3)
+
+Ett fel i Försäkringskassans automatiserade behandling av ett ärende om sjukpenninggrundande inkomst fick till följd att den försäkrade återkallade ett överklagande, varigenom hon förorsakades en rättsförlust
+Bakgrund Försäkringskassan beslutade den 9 september 2005 att fastställa C.L:s sjukpenninggrundande inkomst (SGI) till 56 300 kr fr.o.m. den 12 april 2005. Beslutet fastställdes efter omprövning den 25 oktober 2005. Hon överklagade det sistnämnda beslutet till Länsrätten i Stockholms län, varvid hon yrkade att hennes SGI skulle fastställas till 384 000 kr.
+I ett beslut den 28 augusti 2006 fastställde Försäkringskassan C.L:s SGI till 384 000 kr fr.o.m. den 1 januari 2005. C.L. återkallade därför sitt överklagande hos länsrätten, som avskrev målet i ett beslut den 5 september 2006 (målnr. 27956-05). Den 4 oktober 2006 beslutade kassan återigen att fastställa C.L:s SGI till 56 300 kr fr.o.m. den 12 april 2005. I beslutet angavs att det fattades med stöd av 20 kap. 10 a § lagen (1962:381) om allmän försäkring och att beslutet den 28 augusti 2006 var felaktigt då det skickades ut på grund av ett tekniskt missöde. C.L. överklagade det nya beslutet till länsrätten.
+Anmälan I en anmälan, som kom in till JO den 11 oktober 2006, anförde C.L. genom ombudet Ö.J. att hon genom kassans hantering hade åsamkats rättsförlust genom att hon i förlitan på Försäkringskassans beslut den 28 augusti 2006 hade återkallat sitt överklagande. Hon hade även åsamkats ideell skada och personligt lidande.
+­­­
+Utredning Försäkringskassan anmodades att yttra sig över vad C.L. hade anfört i sin anmälan. I ett remissvar den 9 januari 2007 anförde Försäkringskassans huvudkontor (tillförordnade avdelningschefen Anette Berglund) följande.
+
+Riksdagens ombudsmän Box 16327 103 26 Stockholm Besök: Västra Trädgårdsgatan 4
+
+E-post: Telefon: Texttelefon: Fax:
+
+justitieombudsmannen@jo.se 08-786 40 00 08-786 61 15 08-21 65 58
+
+www.jo.se
+
+Dnr 4778-2006 Sid 2 (3)
+Försäkringskassans bedömning
+Det kan konstateras att Försäkringskassan i avvaktan på avgörande i Länsrätten brustit i utredning och beslut av den inkomst (384 000 kronor) som C.L. anmälde i samband med begäran om sjukpenning. Även om Försäkringskassan i tidigare beslut inte godkänt den uppgivna inkomsten ska inte en ny anmälan om inkomst lämnas utan åtgärd i avvaktan på avgörande i Länsrätten.
+Vidare har Försäkringskassan den 28 augusti 2006 förorsakat att ett felaktigt beslut om SGI på 384 000 kronor sänts till C.L. Därefter har Försäkringskassan inte följt rutinerna för rättelse av det felaktiga beslutet.
+Berörd personal på lokalkontorsområdet har informerats om vikten av att följa gällande rutin.
+Ärendet och dess handläggning
+Försäkringskassans ärendehanteringssystem syftar till att effektivisera handläggningen på Försäkringskassan. För att uppnå syftet är en del av handläggningen automatiserad dvs. delar av handläggningsprocessen sköts av systemet. Eftersom ett beslut om SGI på grund av den mänskliga faktorn kan bli felaktigt vad gäller datum och/eller inkomst, finns det en rutin som gör det möjligt att rätta uppgifterna och förhindra att det sänds ut ett felaktigt beslut till en person. När rättelsen görs samma dag stoppas beslutsprocessen i ärendehanteringssystemet, Försäkringskassan har då möjlighet att rätta den felaktiga uppgiften innan processen fortsätter vilket resulterar i att beslutet blir korrekt.
+Rättelse kan även göras vid en senare tidpunkt. Skillnaden är då att det felaktiga beslutet är på väg eller har kommit fram till personen. I dessa fall krävs det att Försäkringskassan gör en rättelse enligt 20 kap. 10 § a lagen (1962:381) om allmän försäkring och sänder ett nytt beslut som upphäver det felaktiga.
+Försäkringskassan beslutade den 9 september 2005 att fastställa C.L:s SIG till 56 300 kronor fr.o.m. den 12 april 2006. Detta beslut överklagades till Länsrätten den 13 december 2005.
+Den 25 januari 2006 inkommer till Försäkringskassan en begäran om sjukpenning med anmälningsdatum den 12 december 2005. I denna begäran meddelar C.L. att hennes inkomst är 384 000 kronor fr.o.m. den 1 januari 2005.
+Denna anmälan om ny inkomst föranleder vid den tidpunkten ingen ny utredning och beslut om SGI, vilket den borde ha gjort. Försäkringskassan väljer felaktigt att bevaka anmälan om ny inkomst i avvaktan på utgången av det överklagande som finns hos Länsrätten.
+När bevakningen aktualiseras den 28 augusti 2006, registreras C.L:s yrkande om ny inkomst och uppgifterna sparas i ärendehanteringssystemet. Det faktum att uppgifterna sparas ger en impuls till systemet att gå vidare till beslut i ärendet. Eftersom Försäkringskassan vid det tillfället inte hade för avsikt att besluta SGI till 384 000 kronor skulle uppgifterna inte ha sparats.
+Försäkringskassan upptäcker denna felaktighet redan samma dag. På grund av att Försäkringskassan inte följer gällande rutiner för "rättelse av beslut" fortsätter ärendehanteringssystemet med beslutsprocessen och förbereder utskick av nytt SGI-beslut.
+C.L. fick tillfälle att yttra sig över Försäkringskassans remissvar.
+Bedömning
+Som framgår av Försäkringskassans remissvar tillkom beslutet den 28 augusti 2006 genom ett misstag i samband med den automatiserade behandlingen. Detta fick till följd bl.a. att C.L. återkallade sitt överklagande av kassans beslut den 9 september 2005 om hennes SGI. Genom kassans felaktiga handläggning kom hon att göra en
+
+Dnr 4778-2006 Sid 3 (3)
+tydlig rättsförlust. Därtill kommer att det fortsatta förfarandet ­ domstolsprövningen ­ kom att försenas avsevärt. Försäkringskassan förtjänar kritik för detta.
+Jag vill här också göra Försäkringskassan uppmärksam på att principen om litis pendens torde ha medfört att kassan var förhindrad att fatta ett nytt beslut om C.L:s SGI till den del frågan var föremål för prövning i domstol.
+En särskild fråga är om det var riktigt av Försäkringskassan att i sitt ändringsbeslut den 4 oktober 2006 åberopa 20 kap. 10 a § lagen (1962:381) om allmän försäkring. Det ankommer emellertid på domstol att pröva detta, varför jag inte går vidare i den delen. ­­­
+Ärendet avslutas.
+
+

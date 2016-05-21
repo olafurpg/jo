@@ -1,0 +1,68 @@
+Justitieombudsmannen Nils-Olof Berggren
+
+BESLUT
+Datum 2006-12-29
+
+Dnr 4828-2005
+
+Sid 1 (5)
+
+En kommunal nämnd har handlagt ett ärende om bygglov i strid med principen om en beslutsmyndighets bundenhet av en överinstans i samband med återförvisning företagna sakprövning
+Anmälan
+I en anmälan, som kom in till JO den 4 november 2005, klagade Aktelo AB (i det följande Aktelo) på att Miljö- och byggnämnden i Värmdö kommun, i strid med ett av Länsstyrelsen i Stockholms län meddelat beslut om återförvisning, hade avslagit en ansökan om bygglov. Aktelo klagade också på långsam handläggning av ärendet efter återförvisningen.
+Av anmälan jämte därtill fogade handlingar framgick bl.a. följande.
+På uppdrag av Svenska UMTS-nät AB (i det följande bolaget) handlägger Aktelo tillståndsärenden i samband med utbyggnad av telenätet.
+Nämnden avslog den 15 juni 2004 bolagets ansökan om bygglov för uppförande av en 60 meter hög telemast samt två teknikbodar på fastigheten Strömma 6:1. Beslutet grundade sig på att masten skulle få en sådan påverkan på landskapsbilden att den inte var godtagbar med hänsyn till kraven i 3 kap. 1 § plan- och bygglagen (1987:10; PBL). Masten bedömdes inte heller vara förenlig med kommunens mastpolicy. Dessutom anfördes att samordning borde kunna ske med en närliggande mast i Brevik. Länsstyrelsen beslutade den 31 maj 2005 att återförvisa ärendet till nämnden för meddelande av bygglov. I beslutet redovisade länsstyrelsen följande bedömning.
+Av kommunens antagna mastpolicy framgår klart att operatörerna bör samverka och i största möjliga utsträckning samutnyttja de mobilmaster som byggs eller redan finns så att det inte behöver byggas fler master än nödvändigt. Länsstyrelsen delar uppfattningen att möjligheterna till samlokalisering bör undersökas och utnyttjas i största möjliga mån för att minska negativ påverkan på landskapsbilden. I ärendet är inte utrett varför samordning med den omnämnda masten i Brevik inte kan komma till stånd, vilket är en brist.
+Länsstyrelsen, som tidigare prövat de sökta åtgärderna som samrådsärende enligt 12 kap. 6 § miljöbalken, har dock i samrådsyttrande inte haft något att erinra mot lokaliseringen från naturvårds-, kulturmiljövårds- och friluftslivssynpunkt. Länsstyrelsen konstaterar att tornet och teknikbodarna avses placeras i ett skogsparti
+
+Riksdagens ombudsmän Box 16327 103 26 Stockholm Besök: Västra Trädgårdsgatan 4
+
+E-post: Telefon: Texttelefon: Fax:
+
+justitieombudsmannen@jo.se 08-786 40 00 08-786 61 15 08-21 65 58
+
+www.jo.se
+
+Dnr 4828-2005 Sid 2 (5)
+mellan väg 222 och Strömma kanal, ca 125 meter från stranden. Länsstyrelsen finner att lokaliseringen inte strider mot bestämmelserna i 2 kap. PBL.
+Master för mobiltelefoni torde sällan upplevas som särskilt tilltalande från estetisk synpunkt oavsett placering. Visserligen kommer den sökta masten med en höjd av 60 meter att bli väl synlig i landskapsbilden men den kan inte anses utgöra en sådan betydande olägenhet att den strider mot bestämmelserna i 3 kap. 1 § PBL. Trots vad som anförts om bristen på utredning huruvida samordning med annan mast varit möjlig, finner länsstyrelsen därför att överklagandet skall bifallas och ärendet återförvisas till nämnden för meddelande av lov.
+Länsstyrelsens beslut vann laga kraft.
+Den 11 oktober 2005 beslutade nämnden på nytt att avslå bolagets ansökan. Nämnden hänvisade i beslutet till 3 kap. 1 § PBL och anförde att samordning med Vodafones mast på fastigheten Herrvikstomten 67:1 borde kunna ske. Vidare anfördes bl.a. att sökanden hade uppgett att den mast som ansökan avsåg var "aktuell" på grund av att det rått osäkerhet i fråga om bygglov för masten på Herrvikstomten 67:1 men att bygglov för sist nämnda mast hade meddelats den 25 januari 2005. I övrigt hänvisade nämnden till tidigare bedömning angående omgivningspåverkan samt till att ansökan inte var förenlig med kommunens mastpolicy.
+Utredning
+Av muntliga upplysningar den 9 november 2005 från nämnden framgick att ett överklagande hade kommit in den 4 november 2005 men att handlingarna i ärendet inte hade skickats till länsstyrelsen.
+Anmälan remitterades därefter till nämnden för utredning och yttrande. I nämndens remissvar den 13 december 2005 anfördes i huvudsak följande.
+Nämnden prövar ansökningar om bygglov med utgångspunkt från kraven på lämplig placering med hänvisning till landskapsbilden i PBL samt mot Post- och telestyrelsens (PTS) föreskrifter om samordning för att minimera antalet master.
+Vid handläggningen av ärendet har nämnden i ett tidigt skede ställt krav på samordning mellan bolaget och Vodafone för att endast en mast bör få placeras i området.
+Bolaget har enligt egen utsago, se bifogad skrivelse (utelämnad här, JO:s anmärkning), gått vidare med ansökan om egen mast på fastigheten Strömma 6:1 för att det vid tidpunkten för ansökan inte varit klart med bygglov för Vodafones mast i närheten.
+Vid handläggningen av ärendet till följd av länsstyrelsens beslut den 31 maj 2005 förelåg möjlighet till samordning för att Vodafone fått sitt lov beviljat för en mast i närheten.
+Enligt PTS samordningsregler kan då nämnden avslå bygglovsansökan och förorda samnyttjande av mast mellan operatörer.
+Nämnden borde ha överklagat länsstyrelsens beslut för att invänta samordningsmöjligheten. Detta förbisågs, men nämnden fann det trots allt rimligt att vidhålla samordningskravet.
+Om möjligheten förelegat redan vid länsstyrelsens prövning är det enligt nämndens bedömning rimligt att anta att länsstyrelsen förordat samordning före lov för ytterligare en mast.
+
+Dnr 4828-2005 Sid 3 (5)
+För närvarande överväger regeringen att skärpa samordningskravet ytterligare för att minimera antalet master och ta ökad hänsyn till miljön. Nämnden anser därför inte att agerandet är klandervärt.
+Aktelo kommenterade remissvaret och uppgav bl.a. att det är PTS som har möjlighet att i enlighet med bestämmelser i lagen (2003:389) om elektronisk kommunikation besluta om skyldighet för en operatör att tillhandahålla samlokalisering men att dessa bestämmelser inte är tillämpliga vid bygglovsprövningen. Vidare uppgav Aktelo bl.a. att nämnden, efter att ha fått kännedom om Aktelos anmälan till JO, hade omprövat sitt senaste avslagsbeslut och beviljat bygglov.
+Nämndens omprövningsbeslut, meddelat den 15 november 2005, hämtades in. I beslutet anfördes bl.a. att nämnden endast hade att meddela bygglov eftersom länsstyrelsens beslut hade vunnit laga kraft då nämnden inte hade överklagat beslutet. Till stöd för att bevilja lov hänvisade nämnden till länsstyrelsens bedömning.
+I ett beslut den 29 december 2006 anförde JO Berggren följande.
+Bedömning En överklagandeinstans som bifaller ett överklagande kan självfallet sätta ett nytt beslut i det överklagade beslutets ställe. Den överprövande myndigheten har i en sådan situation precis samma befogenheter som den myndighet som beslutade i första instans (se bl.a. Strömberg, under medverkan av Lundell, Allmän förvaltningsrätt, 23 uppl. 2006, s. 210).
+I stället för att avgöra ärendet kan överinstansen visa det åter till den beslutande myndigheten av olika i beslutsskälen redovisade anledningar. Det kan bl.a. förekomma beslut där överinstansen ger uttryck för en annan åsikt i en sakfråga och motiveringen kan sägas innefatta en anvisning till den lägre myndigheten om hur den bör besluta i sak. Frågan om en beslutsmyndighets bundenhet av besvärsmyndighetens sakprövning i sådana situationer har tidigare behandlats av JO (se bl.a. JO:s ämbetsberättelse 2006/07 s. 422 och 1992/93 s. 238).
+Utgångspunkten är att beslutsmyndigheten skall godta den sakprövning som överklagandeinstansen har gett uttryck för om inte särskilda skäl talar emot detta. Sådana särskilda skäl kan föreligga om det har tillkommit nya omständigheter som rimligen skulle ha medfört en annan bedömning eller om överinstansen har gjort sig skyldig till en uppenbar felbedömning. Det är alltså fråga om situationer som påminner om dem som motiverar att resning beviljas i lagakraftvunna beslut (jfr resningsgrunderna "nya omständigheter och bevis" och "uppenbart oriktig rättstillämpning"; se också RÅ 1979 1:95).
+Enligt länsstyrelsens beslut den 31 maj 2005 förelåg det inte några hinder mot att bevilja bolagets ansökan om bygglov. Det kan ifrågasättas om inte länsstyrelsen i stället för att återförvisa ärendet skulle ha meddelat ett beslut om bygglov i enlighet med regleringen i 8 kap. 26 § PBL (jfr JO:s ämbetsberättelse 1998/99 s. 453 och
+
+Dnr 4828-2005 Sid 4 (5)
+vad som nyss har sagts om överklagandeinstansens befogenheter). Länsstyrelsen återförvisade dock ärendet med en uttrycklig anvisning om hur nämnden skulle besluta. Nämnden hade kunnat överklaga länsstyrelsens beslut men avstod från att göra det. I avsaknad av särskilda skäl av nyss redovisat slag hade det, mot bakgrund av vad som nyss har sagts om beslutsmyndighetens bundenhet, ålegat nämnden att godta länsstyrelsens bedömning. Genom att inte göra det har nämndens handläggning till men för bolaget fördröjt ärendets slutliga avgörande. Jag noterar att nämnden efter det att Aktelos anmälan till JO remitterats till nämnden för utredning och yttrande omprövat sitt beslut och beviljat bygglov. Anmärkningsvärt nog innehöll nämndens remissvar en månad senare inte någon uppgift om detta.
+Beträffande de uppgifter som förekommit i ärendet angående frågor om krav på samordning mellan operatörer kan följande anmärkas.
+Med stöd av 4 kap. 14 § lagen om elektronisk kommunikation kan PTS (se 27 § förordningen [2003:396] om elektronisk kommunikation) förplikta en operatör att tillhandahålla samlokalisering i en mobilmast. Genom ändringar av bestämmelsen, som trädde i kraft den 1 juli 2006, utvidgades möjligheterna att förordna om samlokalisering. Bland annat har det gjorts klart att det endast är den operatör som vill få möjlighet till samlokalisering som får ansöka om det. Under lagstiftningsarbetet ifrågasatte vissa remissinstanser om inte t.ex. kommunen borde kunna få väcka en sådan fråga. I denna del anförde lagstiftaren bl.a. följande (se prop. 2005/06:191 s. 16).
+Om en rätt att väcka ett ärende hos PTS om samlokalisering skulle ges till kommuner skulle den dessutom kunna skapa en onödig intressekonflikt för kommunen. Om den operatör som omfattas av ansökan om samlokalisering samtidigt har ansökt om bygglov för en egen mast skulle kommunen tvingas att parallellt med prövningen av frågan om samlokalisering handlägga bygglovsansökan. Om det inte finns något hinder enligt plan- och bygglagen (1987:10) måste kommunen i ett sådant fall bevilja operatören bygglov. Att operatören vägrar träffa avtal om samlokalisering är ju inget skäl att vägra denne bygglov.
+Den ursprungliga bestämmelsen tillämpades på så sätt att samlokalisering kunde komma i fråga först om operatören hade fått avslag på en ansökan om bygglov för en egen mast. Detta kan möjligen förklara nämndens i remissvaret redovisade missuppfattning att nämnden "Enligt PTS samordningsregler" skulle ha rätt att avslå en bygglovsansökan med hänvisning till möjligheter till samlokalisering. Efter att bestämmelsen ändrats skall en prövning av frågan om samlokalisering kunna ske oberoende av om en ansökan om bygglov gjorts eller inte (jfr prop. 2005/06:191 s. 14).
+I delbetänkandet (SOU 2005:97) När en räcker, mastdelning för miljön, som låg till grund för de nyss redovisade ändringarna, föreslogs också att möjligheten till samlokalisering skulle kunna vägas in i bygglovsprövningen. Förslagen i denna del har inte lett till lagstiftning. Enligt ett tilläggsdirektiv skulle utredningen utvärdera beslutsprocessen enligt lagen om elektronisk kommunikation. Med hänsyn till
+
+Dnr 4828-2005 Sid 5 (5)
+vikten av klarhet kring samordningen av de olika beslutsfunktionerna ifrågasatte jag i mitt yttrande över betänkandet den 10 januari 2006 (dnr 5092-2005) om inte utvärderingen borde inväntas före eventuella lagstiftningsåtgärder. Dessutom förutsatte jag att en samordning av det fortsatta arbetet skulle ske med de förslag som hade lämnats i PBLkommitténs slutbetänkande (SOU 2005:77).
+Handläggningen och uppgifterna i remissvaret visar på anmärkningsvärda brister i kunskap om grundläggande regler om ärendehandläggning och allmänna förvaltningsrättsliga principer. Jag förutsätter att nämnden informerar sig och berörd personal om de regler som gäller för verksamheten samt också i övrigt vidtar nödvändiga åtgärder för att undvika en upprepning av det inträffade.
+Det som i övrigt har förekommit i ärendet föranleder inte något uttalande eller någon annan åtgärd av mig.
+Ärendet avslutas med den allvarliga kritik som ligger i det sagda.
+Eftersom det här behandlade ärendet innehåller frågor som kan vara av intresse för lagstiftaren översänder jag ett exemplar av detta beslut till Näringsdepartementet.
+
+

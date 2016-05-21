@@ -1,0 +1,51 @@
+Justitieombudsmannen Lars Lindström
+
+BESLUT
+Datum 2012-01-10
+
+Dnr 4408-2011
+
+Sid 1 (4)
+
+Kritik mot Kronofogdemyndigheten för handläggningen av en betalning i ett utsökningsmål
+Anmälan C.B. framförde i en anmälan klagomål mot Kronofogdemyndigheten för handläggningen av ett utsökningsmål och uppgav i huvudsak följande. Hon och hennes man förlorade en civilrättslig tvist i domstol och ålades att betala ett visst belopp till motparten. Motparten vände sig till Kronofogdemyndigheten och begärde verkställighet av domen. Kronofogdemyndigheten anmodade henne att betala skulden senast den 4 juli 2011. Hon betalade in hela summan till Kronofogdemyndigheten den 5 juli och meddelade samma dag myndigheten att betalning skett. I ett brev daterat den 7 juli blev hon av Kronofogdemyndigheten ombedd att redogöra för sina inkomstförhållanden. När hon kontaktade Kronofogdemyndigheten den 15 juli uppgav de att betalning inte hade skett. När hon hävdade motsatsen uppgav de bl.a. att bokföringen släpade efter. Hon kontaktade då själv bokföringen som hittade hennes betalning och bokförde den. Då hade utmätning redan hunnit ske.
+Utredning Handlingar i Kronofogdemyndighetens ärenden U-16021-11/0103 och 803-2118411/25 begärdes in. I dessa angavs att C.B. varit i kontakt med myndigheten den 4 juli 2011 och uppgett att nedsättning avseende skulden skett samma dag. Vidare framgick att C.B:s aktieinnehav hade utmätts den 13 juli. Utmätningen hävdes den 15 juli och samma dag beviljades C.B. rättelse av Kronofogdemyndighetens registeruppgifter beträffande utmätningen eftersom uppgifterna bedömdes som missvisande.
+Kronofogdemyndigheten anmodades därefter att yttra sig över handläggningen av ärende U-16021-11/0103, varvid särskilt skulle framgå anledningen till att utmätning skedde den 13 juli 2011.
+I remissvaret hänvisade Kronofogdemyndigheten genom biträdande processägaren Karin Berglöf Hedar inledningsvis till ett yttrande från Östra verkställighetsavdelningen (här utelämnat) och anförde följande.
+
+Riksdagens ombudsmän Box 16327 103 26 Stockholm Besök: Västra Trädgårdsgatan 4
+
+E-post: Telefon: Texttelefon: Fax:
+
+justitieombudsmannen@jo.se 08-786 40 00 08-786 61 15 08-21 65 58
+
+www.jo.se
+
+Dnr 4408-2011 Sid 2 (4)
+Rättslig reglering
+Enligt 9 § förordning (2000:606) om myndigheters bokföring ska kontanta inbetalningar bokföras senast påföljande arbetsdag. Andra ekonomiska händelser (t.ex. överföringar till giro- eller bankkonto) ska bokföras så snart det kan ske.
+Vid ansökan om verkställighet av vissa betalningsdomar kan gäldenären hindra verkställighet genom att säkerställa betalningsskyldigheten, 3 kap. 6 § utsökningsbalken (UB). Detta kan ske t.ex. genom att gäldenären hos KFM nedsätter ett belopp som svarar mot betalningsskyldigheten jämte förrättningskostnader. Sådan nedsättning kan ske såväl innan som efter ansökan om verkställighet lämnas in till KFM.
+Om svaranden visar att han har fullgjort betalningsskyldighet som ansökan om verkställighet avser, får verkställighet inte äga rum, 3 kap. 21 § UB. Om det i ett sådant fall redan har vidtagits åtgärd för verkställighet i målet, ska åtgärden återgå, om det kan ske.
+Medel som gäldenären betalar in till KFM i ett anhängigt mål anses omedelbart utmätta i målet, om inte betalningen skett med villkor som strider häremot, 4 kap. 28 § UB. Ett exempel på ett sådant villkor är att gäldenären meddelat att betalningen avser nedsättning enl. 3 kap. 6 § UB i syfte att hindra verkställighet.
+Om influtna medel täcker sökandens fordran samt förrättningskostnaderna i målet ska verkställigheten avbrytas, 8 kap. 17 § UB.
+Kronofogdemyndighetens bedömning
+Det är av stor vikt att betalningar bokförs skyndsamt, det bör helst ske samma dag som den inkommer till KFM. Detta särskilt med tanke på de tvångsmedel som står till KFM:s förfogande om betalningar inte bokförs snabbt och korrekt. I detta ärende framgår att betalningen gjorts den 5 juli 2011 men att den registrerats först den 15 juli 2011. Som orsak till fördröjningen har angetts att det antagligen berott på att bokföringen låg efter med registrering i semestertider. Detta är inte en acceptabel handläggningstid. Med anledning av balanser i inregistrering av betalningar har KFM vidtagit åtgärder för avsevärt korta ner handläggningstiden, även under semestertid. I detta sammanhang bör påpekas att KFM håller på att införa ett nytt ITstöd för medelshantering som kommer att bidra till att minska handläggningstiden.
+I handläggarnotering från den 4 juli 2011 framgår att C.B. kontaktat KFM och meddelat att nedsättning skett. När KFM påbörjar sin utredning den 7 juli 2011 antecknas att gäldenären har ringt och meddelat att nedsättning har gjorts. Innan KFM verkställde utmätning den 13 juli 2011 har det kontrollerats om det fanns någon anteckning om nedsättning enl. 3 kap. 6 § UB. Vidare har det kontrollerats om det fanns ett beslut om nedsättning i KFM:s målsystem REX/INIT och i diarieföringssystemet Diarätt samt om någon uppgift om betalning registrerats i utsöknings- och indrivningsdatabasen.
+Frågan är om även ytterligare kontroller kunde ha gjorts med anledning av den information som C.B. lämnat. Eftersom KFM fått information om att en inbetalning gjorts får det anses ankomma på KFM att vidta erforderliga efterforskningar för att konstatera om medlen finns hos myndigheten. Detta ska normalt synas i utsökningsoch indrivningsdatabasen varför kontroll där framstår som naturligt. I förevarande situation framstår det som rimligt att även efterhöra med medelshanteringen om det finns balanser vid registrering av inbetalningar. Om det föreligger sådana balanser bör det föranleda ytterligare kontroller för att se om betalningen kommit in till KFM.
+Det bör tilläggas att det synes som om avsikten med betalningen var att göra en nedsättning enl. 3 kap 6 § UB. Om tvekan föreligger kring avsikten bör KFM ta reda på vad som åsyftas (Utsökningsbalken ­ En kommentar, Walin m.fl. 4:e uppl. s. 80). Bedömningen av vilka åtgärder som borde ha vidtagits påverkas i det aktuella ärendet inte av om syftet med betalningen var nedsättning eller en villkorslös betalning.
+
+Dnr 4408-2011 Sid 3 (4)
+Sammanfattningsvis kan konstateras att KFM brustit i vad gäller att bokföra inbetalningen med önskvärd skyndsamhet. Det finns vidare anledning att ifrågasätta om det inte hade varit möjligt att undvika utmätningen genom ovan rekommenderade kontroller. KFM beklagar starkt det inträffade. Arbete pågår och kommer att fortgå för att korta ner handläggningstiden vid bokföring av inbetalningar.
+C.B. bereddes tillfälle att kommentera Kronofogdemyndighetens yttrande.
+Bedömning Av utredningen framgår att C.B. fick en underrättelse från Kronofogdemyndigheten om att motparten i ett tvistemål ansökt om verkställighet och att betalning skulle ske senast den 4 juli 2011 om hon ville undvika detta. Hon betalade in beloppet, vilket kom in till myndighetens konto den 5 juli. Hon meddelade också myndigheten att betalning hade skett. Den 13 juli beslutade Kronofogdemyndigheten ändå om utmätning av C.B:s aktieinnehav.
+När Kronofogdemyndigheten beslutar om verkställighet av en dom varigenom någon ålagts betalningsskyldighet kan gäldenären hindra verkställighet bl.a. genom att nedsätta pengar hos myndigheten i enlighet med 3 kap. 6 § utsökningsbalken (UB). Gäldenären kan också förhindra vidare verkställighetsåtgärder genom att villkorslöst betala skulden. En sådan betalning kan ske till sökanden i målet eller till Kronofogdemyndigheten. Om betalning sker till sökanden måste gäldenären visa att betalningsskyldigheten fullgjorts varefter verkställighet inte får äga rum (3 kap. 21 § UB). Sker betalning till Kronofogdemyndigheten anses pengarna enligt 4 kap. 28 § UB omedelbart utmätta i målet, om betalningen inte har skett med villkor som strider häremot.
+Kontanta in- och utbetalningar till myndigheter ska bokföras senast påföljande arbetsdag och andra ekonomiska händelser så snart det kan ske (se 9 § första stycket förordningen [2000:606] om myndigheters bokföring). Av detta följer att betalningar som kommer in till Kronofogdemyndigheten ska bokföras skyndsamt.
+Oavsett om den betalning som C.B. gjorde till Kronofogdemyndigheten är att bedöma som en nedsättning eller som en villkorslös betalning av skulden borde den ha inneburit att Kronofogdemyndigheten inte vidtog några ytterligare verkställighetsåtgärder i ärendet. Det är således oacceptabelt att Kronofogdemyndigheten fattade beslut om utmätning den 13 juli 2011 när betalning hade skett den 5 juli. Anledningen till att så ändå skedde synes dels vara att myndighetens bokföring låg efter med registreringen av inkomna betalningar, dels att någon kontroll med bokföringen inte skedde trots att C.B. innan beslutet om utmätning fattades hade meddelat Kronofogdemyndigheten att hon betalat. Myndigheten förtjänar kritik för det inträffade.
+Jag noterar att Kronofogdemyndigheten vidtagit åtgärder för att korta ned handläggningstiderna för inregistrering av betalningar och jag utgår ifrån att myndigheten även följer upp att dessa får avsedd effekt. Det är viktigt att Kronofogdemyndigheten, för det fall myndighetens bokföring av någon anledning
+
+Dnr 4408-2011 Sid 4 (4)
+släpar efter med inregistreringen av betalningar, uppmärksammar detta inom organisationen och vidtar de åtgärder som krävs för att enskilda inte ska drabbas.
+Jag har även i beslut denna dag kritiserat Kronofogdemyndigheten för dess hantering av utmätta medel (JO:s dnr 2427-2011 och 4466-2011). Det finns därför anledning att framhålla att myndighetens medelshantering är en viktig del av verksamheten som kan ha stor betydelse för den enskilde. Det är således, även för förtroendet för verksamheten, viktigt att handläggningen i detta avseende är korrekt. Jag vill därför understryka vikten av noggrannhet i myndighetens medelshantering.
+Ärendet avslutas.
+
+

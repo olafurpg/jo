@@ -1,0 +1,60 @@
+Justitieombudsmannen Jan Pennlöv
+
+BESLUT
+Datum 2000-05-04
+
+Dnr 1827-1999
+
+Sid 1 (4)
+
+En tjänsteman vid försäkringskassa har kritiserats för att ha överskridit sin behörighet
+JO Pennlöv meddelade efter en anmälan mot Stockholms läns allmänna försäkringskassa - den 4 maj 2000 ett beslut med följande innehåll.
+Anmälan C.E. hävdade att en tjänsteman vid kassan, G.J., skulle ha lämnat ut uppgifter om hennes bostadsbidrag till hennes f.d. make, J.E. G.J. skulle också på olika sätt ha hjälpt och bistått J.E. i samband med att denne överklagade ett beslut om underhållsstöd.
+Utredning Anmälan remitterades till försäkringskassan för utredning och yttrande. Kassan ­ direktören Henrik Meldahl ­ hänvisade i remissvaret till en av kassans revisionsenhet gjord utredning om någon tjänsteman obehörigen inhämtat uppgifter avseende C.E. I utredningen angavs följande.
+Bakgrund Den 4 maj 1999 inkom ett brev till kassan från C.E. ställt till Christel Rönnblad, Länskontor 2. Brevet innehöll en redogörelse över C.E:s situation i ett omprövningsärende rörande underhållsstöd. I brevet beskrevs att hennes tidigare make, J.E., hade via en bekant anställd på försäkringskassan fått uppgifter som rörde bl. a. hennes bostadsbidrag. I brevet nämndes inget namn på denna person på försäkringskassan, utan bara som ­ "en bekant i hög position". C.E. är inskriven vid lokalkontoret i Sollentuna. Länskontor 2 har till revisionsenheten lämnat en redogörelse för sina kontakter i ärendet. Till denna redogörelse bifogades kopior av journalanteckningar som upprättats på lokalkontoret i Sollentuna. Av dessa journaler framgår att den åsyftade personen som anmälaren avsåg är områdeschef G.J. vid kontorsområdet Södra Järva (0153). Det har senare framkommit att J.E. är sambo med dottern till G.J:s sambo. Internrevisionen fick i uppdrag att utreda ärendet.
+
+Riksdagens ombudsmän Box 16327 103 26 Stockholm Besök: Västra Trädgårdsgatan 4
+
+E-post: Telefon: Texttelefon: Fax:
+
+justitieombudsmannen@jo.se 08-786 40 00 08-786 61 15 08-21 65 58
+
+www.jo.se
+
+Dnr 1827-1999 Sid 2 (4)
+Vidtagna åtgärder
+Revisionsenheten beslöt att göra ett uttag ur transaktionsloggen från RFV- Data i syfte att utreda vem/vilka som varit inne i systemen och tagit ut information om C.E. Logguttagets resultat visade att ett antal frågetransaktioner gjorts via ett behörighetskort tillhörigt Södra Järva-kontoret. Vid kontroll visade sig kortet tillhöra försäkringssekreteraren E.S. som arbetar på kontorets kundtjänst. Frågetransaktionerna avsåg 070-trans "Uppgifter om BDF:UHS/BET/VHV", 073 trans "Uppgifter om bidragsskyldigs beslut och barn" samt 745-trans "Översikt av USskrivelser". Samtliga transaktioner var utförda den 16 december 1998 och i en tidsföljd.
+Revisionsenheten besökte lokalkontoret den 19 maj 1999 för att intervjua E.S. om motivet bakom ovanstående frågetransaktioner. Vid samtalet med E.S. erinrade hon sig att G.J. kommit till henne och diskuterat regler för underhållsstöd. G.J. hade även bett E.S. att ta fram vissa bilder på C.E. Detta skulle enligt E.S. ha ägt rum ­ "någon gång kring jul föregående år".
+Samma dag, den 19 maj 1999, kallade vi G.J. till revisionsenheten för ett samtal. Från revisionsenheten deltog Anders Fridh och Peter Schmidt. Vi berättade för G.J. att vi fått en anmälan för utredning och vad den innehöll.
+Vid vårt samtal med G.J. framkom följande:
+G.J. erinrade sig ärendet och berättade att J.E. hade bett henne om hjälp att få sitt ärende angående underhållsstöd förklarat för sig. Han hade enligt G.J. vänt sig till sitt kontor (Sollentuna) men hade inte fått den hjälp han behövde.
+G.J:s syfte hade varit att försöka hjälpa J.E. som kund till Försäkringskassan. G.J. betonade att det inte hade varit hennes mening att "lägga sig i".
+Ett annat syfte var att hon inte ville att Försäkringskassan skulle framstå som om vi inte bryr oss och tar hänsyn till kundens behov. Utifrån den information G.J. fått från J.E. om hans ärende bedömde hon att det verkade märkligt ur flera aspekter. Bl. a. hade han fått flera beslutsbrev vid samma tidpunkt med olika dateringar och att han skulle vara underhållsskyldig för barn som han har delad vårdnad för. G.J. tog då kontakt med en handläggare på sitt eget kontor, E.S., för att få veta vilka regler som gäller generellt. G.J. har vid detta tillfälle fått J.E:s personnummer per telefon och bett E.S. att ta fram den nödvändiga informationen för att hon skall kunna ge J.E. svar på varför han fått de ovannämnda beslutsbreven. Dessutom hade J.E. uppgivit att när han kontaktat sitt kontor för att avtala en tid för besök för att förklara sin situation, istället blev (­ ­ ­) uppmanad att faxa in sina handlingar som han ville åberopa. G.J. tog kontakt med handläggaren, C.B. vid Sollentuna-kontoret, för att informera denne att J.E. vill komma på besök och visa sina handlingar från tingsrätten etc. G.J. fick då till svar från handläggaren att hon bett honom faxa handlingarna till kontoret. (Enligt journalanteckningar ägde detta samtal rum den 17 december 1999). Enligt G.J. faxade J.E. sina handlingar till Sollentuna-kontoret tillsammans med en begäran om omprövning.
+Efter årsskiftet fick J.E. ett beslut om att hans omprövning avslagits. J.E. kontaktade då G.J. igen med en undran hur han skulle förfara. G.J. informerade att J.E. hade rätt att ta del av de handlingar som rörde hans ärende och förvarades på försäkringskassan. J.E. ville ha hjälp av G.J. för att få kopior av aktuella handlingar. G.J. tog därför en förnyad kontakt med lokalkontoret i Sollentuna. Denna gång med försäkringsspecialist G.A. och bad henne tillställa J.E. kopior av aktuella handlingar. När J.E. fått handlingarna visade han dessa för G.J. som förklarade omprövningsförfarandet för honom. J.E. hade svårt att förstå att man inte beviljat omprövning då man samtidigt dragit in underhållsstödet för hans tidigare hustru. G.J. höll med om J.E:s uppfattning. Någon ytterligare kontakt med Sollentuna-kontoret har G.J. inte haft förutom att hon via handläggarens områdeschef, I.H., förklarat att hennes mening inte var ­ "att lägga sig i" och därmed bett om ursäkt om det uppfattats så.
+På vår fråga om G.J. avsiktligt eller oavsiktligt kunde ha lämnat ut uppgifter om C.E:s bostadsbidrag förnekade hon detta bestämt.
+
+Dnr 1827-1999 Sid 3 (4)
+Vidare har revisionsenheten talat med handläggaren på Sollentuna- kontoret, C.B., för att höra hur hon upplevt kontakten med G.J.
+C.B. uppgav att samtalet med G.J. upplevdes som olustigt. I C.B:s journalanteckningar har noterats ­ "det kändes så fel att diskutera ett enskilt ärende med en chef som måste känna till regler om fullmakt, jäv osv". C.B. uppfattade som om G.J. ville veta hur handläggningen i J.E:s ärende framskred samt att hon "krävt" att J.E:s akt skulle rekvireras från CK.
+Beträffande kontakterna som C.B. haft med J.E. så uppgav hon att hon kan ha uppfattats som "reserverad" när J.E. bett att få en tid för besök och i stället blivit ombedd att faxa in sina handlingar. ­­­
+Henrik Meldahl anförde därutöver i remissvaret för försäkringskassans räkning följande.
+­­­
+Yttrande
+Försäkringskassan i Stockholms läns revisionsenhet har gjort en utredning avseende frågan om någon tjänsteman obehörigen inhämtat uppgifter avseende C.E. Uttag från transaktionsloggen från RFV-Data har visat att några bilder inte har tagits från lokalkontoret Södra Järva där sådana uppgifter finns tillgängliga. Områdeschefen har redovisat korrespondens mellan C.E:s advokat och den före detta maken där de aktuella uppgifterna finns. Försäkringskassans utredning har inte visat att någon i tjänsten otillbörligt skaffat uppgifter om C.E:s bostadsbidrag.
+Vad avser C.E:s anmälan i övriga delar får försäkringskassan anföra följande.
+I bland annat förvaltningslagen finns regler om hur försäkringskassan och dess anställda skall agera. I 4 § förvaltningslagen anges att varje myndighet skall lämna upplysningar, vägledning, råd och annan sådan hjälp till enskilda i frågor som rör myndighetens verksamhetsområde. Denna serviceskyldighet skall utövas bland annat inom ramen för vad som i 1 kap. 9 § regeringsformen anges om att förvaltningsmyndigheter skall iakttaga saklighet och opartiskhet.
+I förevarande ärende har utredningen visat att områdeschefen agerat på ett sådant sätt att det i vart fall kan ha uppfattats som om hon agerat som ombud för en enskild i ett ärende hos myndigheten och som om hon sökt använda sin ställning för att påverka ett ärende. Områdeschefen har själv uppgett att hon har hjälpt en enskild som kund.
+Vad som aktualiseras i ärendet är alltså å ena sidan kravet på att myndigheter skall vara opartiska och å andra myndigheternas serviceskyldighet. Försäkringskassan anser att områdeschefen agerat på ett sådant sätt som går utöver den serviceskyldighet som åvilar myndigheten. Hennes agerande har inte inskränkt sig till upplysningar, vägledning, råd eller annan sådan hjälp. Hon har agerat på ett sådant sätt att det har funnits anledning att ifrågasätta hennes opartiskhet.
+Det kan i sammanhanget påpekas att den utredning som företagits inte visat att områdeschefens agerande påverkat handläggningen av det ärende hon engagerat sig i.
+Avslutningsvis vill försäkringskassan framhålla att kassan ser allvarligt på det inträffade. Den anmälda händelsen har också, som framgår, föranlett en omfattande intern utredning av försäkringskassans revisionsenhet.
+C.E. fick tillfälle att kommentera remissvaret men hördes inte av.
+Bedömning
+Av utredningen framgår att G.J. på olika sätt agerat för att försöka hjälpa sin bekant, J.E., med dennes ärende om underhållsstöd. Detta skedde trots att G.J.
+
+Dnr 1827-1999 Sid 4 (4)
+varken var handläggare av ärendet eller hade fullmakt att företräda J.E. J.E. tillhörde dessutom ett lokalkontor inom ett annat kontorsområde än det där G.J. var chef.
+G.J. bad den 16 december 1998 en tjänsteman vid sitt lokalkontor att gå in i socialförsäkringens ADB-register och ta fram vissa databilder där uppgifter om C.E. förekom. Dagen därpå ringde G.J. till handläggaren av J.E:s underhållsstödsärende vid kassans lokalkontor Sollentuna för att informera denne om att J.E. ville komma på besök. Det framgår av utredningen att handläggaren upplevde samtalet som olustigt. Vid en senare tidpunkt har G.J. återigen tagit kontakt med en handläggare vid detta kontor och bett denne att skicka J.E. kopior av handlingar.
+G.J:s förklaring till att hon på ett så aktivt sätt försökte hjälpa J.E. är att hon upplevde att han inte fick den hjälp han behövde av försäkringskassan och att hon var angelägen om att kassan inte skulle framstå som en myndighet som inte brydde sig om sina "kunder". Jag finner det svårt att tro på den förklaringen och delar försäkringskassans uppfattning att G.J. har agerat på ett sådant sätt att hennes opartiskhet kunnat ifrågasättas. Hon har också använt sig av sin ställning som chef för att förmå en tjänsteman vid det kontor där hon arbetade att gå in i socialförsäkringens dataregister och ta fram vissa databilder där uppgifter om C.E. förekom. Hon överskred därigenom sin behörighet eftersom hon inte hade något ärende rörande vare sig J.E. eller C.E. att handlägga. Sammantaget har G.J:s befattning med ärendet präglats av en anmärkningsvärd brist på omdöme.
+G.J. har förnekat att hon lämnat ut uppgifter om C.E:s bostadsbidrag. Det hon har sagt vinner stöd dels av att de databilder som togs inte avsåg bostadsbidrag, dels av att uppgiften om bostadsbidragets storlek fanns tillgänglig i en korrespondens mellan C.E:s advokat och J.E. Vad som framkommit ger således inte utrymme för ett antagande att G.J. obehörigen lämnat ut dessa uppgifter.
+
+

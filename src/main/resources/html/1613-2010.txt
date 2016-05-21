@@ -1,0 +1,39 @@
+Justitieombudsmannen Hans-Gunnar Axberger
+
+BESLUT
+Datum 2011-02-24
+
+Dnr 1613-2010
+
+Sid 1 (3)
+
+Kritik mot Kronofogdemyndigheten, som registrerat ett betalningsföreläggande på fel person och sedan låtit bli att rätta sitt misstag
+Beslutet i korthet: Kronofogdemyndigheten har inte följt sina rutiner för att förebygga misstag vid maskinell inläsning. Det har lett till att en person felaktigt registrerats hos myndigheten, som sedan inte slutligt rättat felaktigheten förrän efter det att JO:s granskning inletts. Handläggningen kritiseras.
+Bakgrund och utredning Kent L. anmälde Kronofogdemyndigheten, som felaktigt angivit hans personnummer i ett beslut som gällde en annan person. Detta hade lett till att han fått en betalningsanmärkning, något han upptäckte då han blivit nekad att handla på kredit.
+Av handlingar i ärendet framgick följande.
+ Den 13 oktober 2008 meddelade Kronofogdemyndigheten utslag i ett ärende om betalningsföreläggande. Svaranden NN angavs med korrekt namn och adress men med Kent L:s personnummer.
+ NN begärde återvinning och målet överlämnades därför till Helsingborgs tingsrätt den 4 november 2008. Den 5 november 2008 upplyste tingsrätten Kronofogdemyndigheten om att personnummer och namn/adress inte stämde överens. Ärendet sändes därför åter till Kronofogdemyndigheten för kontroll.
+ Av ett utdrag från Upplysningscentralen (UC) avseende Kent L., daterat den 20 januari 2010, framgår att han hade en betalningsanmärkning som grundades i Kronofogdemyndighetens utslag den 13 oktober 2008.
+ I slutet av januari 2010 kontaktade Kent L. Kronofogdemyndigheten och berättade om felet. Den 2 februari 2010 sände myndigheten därför en s.k. dementi till bl.a. UC, där det framgick att felaktiga uppgifter registrerats och att betalningsanmärkningen borde tas bort.
+
+Riksdagens ombudsmän Box 16327 103 26 Stockholm Besök: Västra Trädgårdsgatan 4
+
+E-post: Telefon: Texttelefon: Fax:
+
+justitieombudsmannen@jo.se 08-786 40 00 08-786 61 15 08-21 65 58
+
+www.jo.se
+
+Dnr 1613-2010 Sid 2 (3)
+Muntliga upplysningar inhämtades från Kronofogdemyndighetens rättelseteam. Det framgick att det felaktiga personnumret skulle kunna ha rättats enligt 2 kap. 20 § utsökningsbalken i samband med Helsingborgs tingsrätts påpekande. Även andra rättsliga möjligheter förelåg. Inget av detta synes dock ha skett, varför åtgärder nu skulle vidtas för att korrigera uppgifterna i betalningsföreläggande- och handräckningsdatabasen.
+Kronofogdemyndigheten anmodades därefter att yttra sig. Av yttrandet framgick bl.a. att det felaktiga personnumret härrörde från Intrum Justitia, vars ansökan hade mottagits och lästs in elektroniskt hos Kronofogdemyndigheten. Myndigheten anförde i övrigt bl.a. att den summariska processen bygger på ett snabbt och enkelt förfarande, där det inte kan göras någon kontroll av de handlingar som ligger till grund för ett anspråk, men att systemet ska signalera när namn och personnummer inte stämmer överens. Av okänd anledning hade handläggaren i detta fall inte uppmärksammat denna signal. Myndigheten medgav även andra brister och beklagade att handläggningen i flera avseenden varit bristfällig.
+Bedömning Förfarandet i ärenden av det slag där det nu uppmärksammade misstaget ägt rum är summariskt med delvis automatiserad handläggning. Kronofogdemyndigheten har med hänvisning till detta anfört att någon kontroll av det slag anmälaren efterlyst inte kunde göras. Jag har förståelse för detta. Det är emellertid självklart att en myndighet, när den automatiserar sin handläggning, även måste beakta risker för misstag och förebygga dessa, i synnerhet sådana som är ägnade att medföra obehag eller rättsförluster för enskilda. Det framgår också att systemet är så uppbyggt att det ska reagera när ­ som i detta fall ­ personnummer och namn inte stämmer överens. Detta har "av okänd anledning" inte fungerat.
+Oavsett vad det var för anledning är det Kronofogdemyndigheten som bär ansvaret för att felaktiga uppgifter registrerats. Med detta ansvar följer en skyldighet att, när misstaget uppdagas, verka för att detta rättas; den saken kan inte lämpas över på den enskilde.
+Av 2 kap. 20 § utsökningsbalken följer att Kronofogdemyndigheten får rätta beslut som till följd av skrivfel, räknefel eller annat sådant förbiseende innehåller uppenbar oriktighet (2 kap. 20 § utsökningsbalken är tillämplig även i förevarande sammanhang, se 66 § lagen [1990:746] om betalningsföreläggande och handräckning). Vid tillämpningen kan den i stort sett likalydande regeln i 26 § förvaltningslagen tjäna som vägledning. Namn- och personförväxlingar är därvid närmast typexempel på sådant som kan rättas (se Hellners och Malmqvist, Förvaltningslagen ­ med kommentarer, tredje upplagan, s. 337 ff.). Av 3 kap. 17 § utsökningsförordningen (1981:981) följer att Kronofogdemyndigheten självmant ska pröva frågan om rättelse eller ändring av beslut när anledning föreligger till sådan åtgärd (jfr prop. 1980/81:8 s. 260).
+
+Dnr 1613-2010 Sid 3 (3)
+Bortsett från det fel som begicks när de felaktiga uppgifterna från Intrum Justitia godtogs borde Kronofogdemyndigheten mot den angivna bakgrunden ha vidtagit rättelseåtgärder när myndigheten genom tingsrättens försorg upplysts om de felaktiga uppgifterna om Kent L. Det är anmärkningsvärt att så inte skedde. Bristen reparerades i någon mån i januari 2010 när myndigheten i anledning av att Kent L. hört av sig sände ut en s.k. dementi. Men inte ens då gjordes en rättelse i myndighetens register.
+Sammanfattningsvis har Kronofogdemyndigheten alltså dels inte tillämpat sina rutiner för att förebygga misstag vid maskinell inläsning, dels underlåtit att självmant rätta ett uppenbart fel som kunde föranleda skada för tredje man,
+dels inte slutligt rättat felaktigheten förrän efter det att JO:s granskning inletts. Handläggningen måste kritiseras. Kronofogdemyndigheten bör utreda om det inträffade utgjort en engångsföreteelse eller, som det kan synas, har sin grund i bristande rutiner.
+
+

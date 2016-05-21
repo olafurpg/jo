@@ -1,0 +1,60 @@
+Chefsjustitieombudsmannen Claes Eklundh
+
+BESLUT
+Datum 2002-03-14
+
+Dnr 4060-2001
+
+Sid 1 (4)
+
+Kritik mot en polismyndighet för dröjsmål med diarieföring och besvarande av ett till myndigheten inkommet e-postmeddelande
+Anmälan I en anmälan till JO som kom in den 6 november 2001, framförde T.H. kritik mot Polismyndigheten i Skåne. Han uppgav att någon okänd person hade uppgivit hans företags webbadress som avsändare till erbjudanden att köpa självlysande kondomer. Den 5 oktober 2001 skickade han ett elektroniskt brev till Polismyndigheten i Skåne vari han ställde frågor om möjligheterna att göra polisanmälan mot den som missbrukat hans webbadress och nå framgång med en sådan anmälan. Då han inte fick något svar på sin fråga skickade han ett nytt epostmeddelande till polismyndigheten den 6 november 2001 där han bl.a. ifrågasatte varför myndigheten hade en e-postadress när "ingen verkar bry sig". Samma dag ingav han en anmälan till JO.
+Utredning
+Muntliga upplysningar inhämtades från polismyndigheten.
+Ärendet remitterades därefter till Polismyndigheten i Skåne för upplysningar om och yttrande över hur T.H:s elektroniska brev till myndigheten den 5 oktober 2001 handlagts, och vilka rutiner polismyndigheten har för öppnande, registrering och besvarande av inkommande elektronisk post. Polismyndigheten (biträdande länspolismästare Kjell Arne Eliasson) kom in med ett yttrande till vilket hade fogats länspolismästarens tjänsteföreskrift om extern e-post (saknr 181-2) den 1 december 2000.
+Kjell Arne Eliasson
+Upplysningar om ärendets handläggning Fredagen den 5 oktober 2001 klockan 22.57 avsändes till Polismyndighetens i Skåne e-postbrevlåda ett meddelande avsänt av anmälaren, T.H. Meddelandet registrerades i myndighetens e-postdiarium strax efter midnatt den 6 oktober och öppnades av registrator på morgonen måndagen den 8 oktober, skrevs ut på papper och översändes samma dag till Centraljouren inom Polisområde Malmö (POMA) för bedömning om ärendet skulle föras in i diariet för kriminalärenden (K-diariet). Av de upplysningar som inhämtats från POMA framgår att ärendet sannolikt inkom dit på eftermiddagen den 8 oktober men eftersom mottagaren där inte uppfattade
+
+Riksdagens ombudsmän Box 16327 103 26 Stockholm Besök: Västra Trädgårdsgatan 4
+
+E-post: Telefon: Texttelefon: Fax:
+
+justitieombudsmannen@jo.se 08-786 40 00 08-786 61 15 08-21 65 58
+
+www.jo.se
+
+Dnr 4060-2001 Sid 2 (4)
+handlingen som en brottsanmälan skickades ärendet vidare för komplettering och vidare handläggning till den polisman som är utsedd att hantera frågor och svar via Internet. Det framgår vidare att denne tog sig an ärendet, som inte bedömdes prioriterat, antingen tisdagen den 9 eller onsdagen den 10 oktober. Eftersom ärendet saknade anknytning till POMA skickades det med internpost vidare för handläggning till Polisområde Mellersta Skåne (POMS), där det geografiskt hör hemma. Kopia av handlingen med påteckning att det vidaresänts till POMS översändes till registrator och för att sättas in i den pärm som används för ärenden, som inte diarieförts i myndighetens ALM-diarium. Olyckligtvis kom meddelandet att sättas in i fel pärm.
+För POMA:s del hämtas internposten av vaktmästeri varje vardagsmorgon första gången klockan 07.00 och läggs i aktuell utkorg. POMS avhämtar sin post ca klockan 13.30.
+POMS har upplyst att handlingen i enlighet med gängse rutiner sannolikt hämtades i Malmö tisdagen den 16 oktober och diariefördes den 17 oktober. Inom POMS registrerades ärendet på chefen för spanings- och narkotikaroteln den 23 oktober. Denne lade ut ärendet på en av de få utredningsmän som besitter kompetens på området. Eftersom ärendet inte prioriterades högre än andra liknande ärenden lades det i balans och påbörjades den 9 november.
+Då registrator den 8 november kontaktades först av informationsdirektören och därefter av Riksdagens ombudsmän blev hon konsternerad av att ärendet inte kunde återfinnas i den pärm som används för sådana ärenden. När hon försökte finna en anledning till dröjsmålet kunde hon i hastigheten inte finna någon annan förklaring än att meddelandet misstänkts vara virussmittat och därför inte hanterats enligt gängse rutiner.
+Efter samtalet och ytterligare sökande återfanns dock ärendet senare samma dag. För att inte handläggningen skulle försenas ytterligare vidarebefordrade hon genast meddelandet till myndighetens upplysningscentral som samma dag besvarade den av Hansson framställda frågan. ­ Vid upplysningscentralen handläggs mer allmänt hållna frågor från allmänheten rörande t ex trafikbestämmelser och olika slags polismyndighetsärenden.
+Rättslig reglering
+Polismyndighetens rutiner för öppnande och registrering av extern e-post regleras i myndighetens bilagda tjänsteföreskrift (här utesluten, JO:s anm.) den 1 december 2000 med saknummer 181-2. Av tjänsteföreskriften framgår de grundläggande bestämmelserna.
+Registrator skall bl a enligt föreskriften varje dag kontrollera om meddelande kommit in samt diarieföra enligt gängse rutiner skriva ut alla meddelanden som är allmänna handlingar.
+Föreskriften innehåller härutöver bestämmelser om att all e-post automatiskt skall registreras i ett e-postdiarium. Detta sker i en därför särskilt upprättad server.
+När ett meddelande från allmänheten nått polismyndighetens e-postbrevlåda lämnas numera automatiskt följande besked:
+"DETTA ÄR ETT AUTOMATISKT SÄNT E-MAIL
+Ert e-mail har nått polismyndighetens e-post brevlåda med adressen polismyndigheten @skane.police.se
+Brevlådan töms i normalfallet endast en gång per helgfri arbetsdag.
+I NÖDSITUATION ELLER I ÖVRIGT VID BRÅDSKANDE FALL, RING 112."
+Inkommande elektronisk post besvaras elektroniskt om ärendet är av enkel beskaffenhet eller om myndigheten endast har skrivelseavsändarens e-mailadress. I övriga fall besvaras e-posten på traditionellt sätt.
+
+Dnr 4060-2001 Sid 3 (4)
+Bedömning
+Den förfrågan som inkom från T.H. ansågs svår att klassificera och det stod därför inte klart för registrator om ärendet borde hanteras som ett K-ärende eller om det var fråga om ett sådant ärende som ankom på upplysningscentralen att handlägga. I enlighet med de rutiner som tillämpas överlämnades därför ärendet till Centraljouren för bedömning varifrån ärendet sedan ­ också i enlighet med de rutiner som tillämpas ­ översändes till POMS för vidare handläggning.
+Orsaken till den fördröjning av diarieföringen som sedan uppstod då ärendet översändes från POMA till POMS kan numera inte klarläggas. Klart är emellertid att ärendet ­ om det avhämtades i Malmö den 10 oktober ­ borde ha kunnat diarieföras i POMS senast den 12 oktober och inte som skedde den 17 oktober.
+En förklaring till att handlingarna sattes in i fel pärm torde vara att registrator under lång tid haft en mycket hög arbetsbelastning, bl a beroende på att antalet epostmeddelanden ökat kraftigt. Polismyndigheten, som ser allvarligt på det inträffade, kommer därför fr o m den 1 januari 2002 att förstärka registratorsfunktionen med en halv årsarbetskraft.
+I syfte att förbättra sin service gentemot den rättssökande allmänheten och undvika rena hanteringsfel avser myndigheten dessutom att införa en sådan rutin ­ genom markering i e-postlistan ­ att en avsändare av e-post på förfrågan omedelbart kan få besked om hur ärendet handlagts och var inom organisationen det kan återfinnas.
+T.H. yttrade sig över remissvaret.
+I ett beslut den 14 mars 2002 anförde chefsJO Eklundh följande.
+Bedömning
+Landets polismyndigheter är skyldiga att inneha en eller flera officiella elektroniska brevlådor i syfte att bereda möjlighet för enskilda att kommunicera med myndigheten via e-post om så önskas (jfr 2 kap. 3 § Rikspolisstyrelsens föreskrifter och allmänna råd om postbehandling och diarieföring vid polismyndigheterna, RPSFS 2001:15 [FAP 181-1]).
+Myndigheternas serviceskyldighet innebär bl.a. att frågor från enskilda skall besvaras så snart som möjligt (4 § andra stycket förvaltningslagen [1986:223]). Detta gäller oberoende av på vilket sätt frågan framställs.
+Polismyndigheten har i sitt yttrande bl.a. anfört att T.H:s e-postförfrågan var svår att klassificera. Bestämmelsen om myndigheternas serviceskyldighet får emellertid förstås så att även om besvarandet i materiellt hänseende kan vara komplicerat och därför bedömas ta längre tid än normalt, kan det inte godtas att förfrågningar, som i det här fallet, blir liggande obesvarade. Det får således anses åligga myndigheten att i så fall underrätta frågeställaren om att svaret kan ta tid, att frågan inte kan besvaras eller att ge det besked i övrigt som förfrågan kan föranleda.
+I 15 kap. 1 § sekretesslagen (1980:100) föreskrivs bl.a. att en allmän handling som har kommit in till en myndighet skall registreras utan dröjsmål. I likhet med polismyndigheten anser jag att T.H:s e-postärende diarieförts för sent. Skyndsamhetskravet i 15 kap 1 § sekretesslagen innebär enligt min mening att T. H:s e-postförfrågan, som kom in till polismyndigheten den 6 oktober, borde ha diarieförts redan måndagen den 8 oktober 2001.
+
+Dnr 4060-2001 Sid 4 (4)
+Jag delar polismyndighetens uppfattning att det finns anledning att se allvarligt på det inträffade. Jag noterar emellertid att myndigheten har vidtagit åtgärder för att undvika att något liknande inträffar i framtiden. Ärendet avslutas med den kritik som ligger i det sagda.
+
+

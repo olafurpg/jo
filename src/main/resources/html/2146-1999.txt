@@ -1,0 +1,35 @@
+Justitieombudsmannen Nils-Olof Berggren
+
+BESLUT
+Datum 2000-05-31
+
+Dnr 2146-1999
+
+Sid 1 (2)
+
+Fråga rörande myndigheters skyldighet att vara tillgängliga via elektronisk post (e-post)
+Anmälan I en anmälan till JO framförde KG Hammarlund klagomål mot Halmstads kommun och uppgav i huvudsak följande. Enligt en artikel i Hallandsposten den 31 maj 1999 vägrade Halmstads kommun sedan tio dagar tillbaka att befatta sig med inkommande e-postmeddelanden där avsändaradressen innehöll domännamnet "hotmail.com". Denna typ av e-postadresser kan vem som helst skaffa sig gratis och de ger möjlighet att läsa och sända e-post närhelst man har tillgång till en dator som är uppkopplad till Internet. Det uppgivna skälet till kommunens åtgärd var att anställda vid två kommunala förvaltningar "bombats" med e-postmeddelanden med kränkande eller förolämpande innehåll. Det är naturligtvis mycket beklagligt att tjänstemän hos Halmstads kommun fått mottaga meddelanden med sådant innehåll. Enligt KG Hammarlunds mening går dock kommunens åtgärd för långt. Den kan jämställas med t.ex. att kommunen vägrar att besvara telefonsamtal från ett visst riktnummerområde.
+KG Hammarlund begärde att JO skulle utreda om Halmstads kommun genom den vidtagna åtgärden på ett olämpligt eller otillåtet sätt begränsat kommunmedlemmars och andras rätt till kommunikation.
+Utredning Efter remiss anförde Kommunstyrelsen i Halmstads kommun i yttrande den 19 augusti 1999 följande.
+Bakgrund Under en tidsperiod i maj 1999 blev två förvaltningar utsatta för "mailbombning". Några e-mail var ställda till kommunen, medan andra meddelanden skickades direkt till enskilda tjänstemän. Meddelandena var direkt anstötliga med bl.a. sexuellt innehåll. Vem som skickade e-mailen gick inte att utläsa då dess avsändare använde sig av hotmailadresser.
+
+Riksdagens ombudsmän Box 16327 103 26 Stockholm Besök: Västra Trädgårdsgatan 4
+
+E-post: Telefon: Texttelefon: Fax:
+
+justitieombudsmannen@jo.se 08-786 40 00 08-786 61 15 08-21 65 58
+
+www.jo.se
+
+Dnr 2146-1999 Sid 2 (2)
+Halmstads kommun åtgärder
+IT-chefen i Halmstads kommun beslutade den 21 maj 1999 att stoppa all e- post med domänen "hotmail.com". Detta genomfördes på så sätt att man via Kommunens leverantör av datadrift, Enator i Halmstad, försökte spärra domänen hotmail.com i Kommunens brandvägg. Det visade sig inte helt lätt praktiskt eftersom brandväggen bara möjliggjorde att man stoppade Ip- nummer och inte domäner. Domänen hotmail.com består av flera Ip-nummer, beroende på att hotmail.com använder sig av flera Internetservrar. Det tog därför en viss tid spåra alla servrar. Detta innebar att först efter en kortare tid lyckades man stoppa samtliga e-mail med domänen hotmail.com till kommunen och dess tjänstemän. Hotmail internetservrarna skickade dock automatiskt ut ett svar att domänen Halmstad.se inte var åtkomlig.
+Den 7 juni 1999 tog man bort spärrfunktion för hotmail internetservrarna vilket innebar att alla e-mailfunktioner fullt ut fungerade. Därefter har ännu så länge inga kända trakasserier förekommit.
+Halmstads kommun har inte på något sätt försökt att begränsa kommunmedborgarnas och andras självklara rätt till kommunikation. Arbetsmiljölagen och inte minst de förändringar som på senare tid införts i jämställdhetslagen gällande sexuella trakasserier ställer stora krav på arbetsgivaren att agera. Allmänhetens rätt till information med myndigheten kan då som i detta fall synas komma i konflikt med myndighetens, i egenskap av arbetsgivare, omsorg om de anställda. Kommunen har emellertid varit tillgänglig för besök, post och telefonsamtal dvs i så stor utsträckning som under rådande omständigheter har varit möjligt. De personer som försökt nå Kommunen via användandet av hotmail har också fått reda på att e-mailet inte nått sin adressat och således haft möjlighet att på annat sätt ta kontakt med kommunen.
+Sammanfattningsvis vill Halmstads kommun som sin ståndpunkt framhålla att något fel inte har begåtts och menar därför att anmälan inte bör föranleda någon åtgärd från JO:s sida.
+KG Hammarlund lämnades tillfälle att kommentera remissvaret men hördes inte av.
+JO Berggren anförde i beslut den 31 maj 2000 följande.
+Det är numera vanligt att myndigheter har egna e-postadresser. Om en myndighet har en sådan adress innebär detta bl.a. att enskilda kan skicka meddelanden av olika slag till myndigheten med e-post och därigenom t.ex. anhängiggöra ärenden. Några författningsföreskrifter som innebär skyldighet för myndigheter att ha epostadresser finns inte. Sålunda finns inte heller några föreskrifter i författning rörande förpliktelser för myndigheter att vara tillgängliga via e-post (jfr 5 § förvaltningslagen [1986:223]).
+Mot bakgrund av det anförda har granskningen i detta ärende tagit sikte på om Halmstads kommun har agerat på ett olämpligt sätt genom beslutet att under en period stoppa all e-post från en viss domän. Kommunstyrelsen har i remissyttrandet redovisat skälen till beslutet och även beskrivit hur det genomfördes. Jag har inte några invändningar mot kommunens åtgärder.
+
+
