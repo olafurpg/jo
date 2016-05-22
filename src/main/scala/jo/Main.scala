@@ -38,4 +38,5 @@ object Main extends App {
     }
   }
   Files.write(Paths.get("target", "out.csv"), sb.toString().getBytes)
+  println("Completed JO!")
 }

@@ -1,3 +1,3 @@
 for f in *.pdf; do
-  pdftotext "$f"
+  pdftotext -enc UTF-8 "$f"
 done
