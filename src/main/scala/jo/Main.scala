@@ -4,7 +4,6 @@ import java.io.File
 import java.nio.file.Files
 import java.nio.file.Paths
 
-
 case class DNR(value: String)
 case class Reference(from: DNR, to: DNR)
 
@@ -23,6 +22,7 @@ object Main extends App {
   val fileRegexp = ".*/(.*).txt".r
 
   val sb = new StringBuilder
+  sb.append("digraph jo {\n")
   gimmeTxt.foreach { file =>
     val text = readFile(file)
     val dnrNumber = fileRegexp
@@ -33,10 +33,14 @@ object Main extends App {
     dnrRegepx.findAllMatchIn(text).foreach { dnrMatch =>
       val reference = dnrMatch.group(1)
       if (dnrNumber != reference) {
-        sb.append(s"$dnrNumber, $reference\n")
+        sb.append(s"""  "$dnrNumber" -> "$reference";
+             |""".stripMargin)
       }
     }
   }
-  Files.write(Paths.get("target", "out.csv"), sb.toString().getBytes)
+  sb.append("}")
+  Files.write(Paths.get("target", "out.dot"), sb.toString().getBytes)
   println("Completed JO!")
+  import sys.process._
+  Seq("dot", "-Tsvg", "target/out.dot", "-o", "target/out.svg").!
 }
