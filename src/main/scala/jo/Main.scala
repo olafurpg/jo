@@ -74,7 +74,7 @@ object Main extends App {
   def getMissingDnr: Set[DNR] = {
     val uniqueDnr = gimmeTxt.map(extractDnr).map(DNR.apply).toSet
     val uniqueReferencedDnr = getReferences(gimmeTxt).map(_.to)
-    uniqueDnr.intersect(uniqueReferencedDnr)
+    uniqueReferencedDnr.diff(uniqueDnr)
   }
 
   def getReferences(textFiles: Seq[File]) = {
@@ -106,6 +106,6 @@ object Main extends App {
 
 //  writeDotFile(transitive = true)
 //  runGraphviz()
-  println(getMissingDnr)
+  getMissingDnr.foreach(println)
   println("Completed JO!")
 }
