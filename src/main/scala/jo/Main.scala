@@ -17,7 +17,7 @@ case class Reference(from: DNR, to: DNR) {
 object Main extends App {
 
   lazy val gimmeTxt: Seq[File] = {
-    val root = new File("src/main/resources/html")
+    val root = new File("src/main/resources/txt")
     root.listFiles().toSeq.filter(_.getPath.endsWith(".txt"))
   }
 
