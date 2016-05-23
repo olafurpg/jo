@@ -6,7 +6,7 @@ import java.io.File
 import java.nio.file.Files
 import java.nio.file.Paths
 
-case class DNR(id: String) {
+case class DNR(id: String) extends AnyVal {
   override def toString = id
 }
 
@@ -16,7 +16,7 @@ case class Reference(from: DNR, to: DNR) {
 
 object Main extends App {
 
-  def gimmeTxt: Seq[File] = {
+  lazy val gimmeTxt: Seq[File] = {
     val root = new File("src/main/resources/html")
     root.listFiles().toSeq.filter(_.getPath.endsWith(".txt"))
   }
@@ -26,17 +26,22 @@ object Main extends App {
   }
 
   def transitiveClosure(refs: Set[Reference]): Set[Reference] = {
-    val grouped = refs.groupBy(_.from).mapValues(_.map(_.to))
-    val G = mutable.Map.empty[DNR, Set[DNR]].withDefaultValue(Set.empty[DNR])
-    def iter(dnr: DNR): Unit = {
-      G.update(dnr, grouped(dnr))
-      grouped(dnr).foreach { x =>
-        iter(x)
-        G.update(dnr, G(dnr) ++ G(x) + x)
+    val children = refs.groupBy(_.from).mapValues(_.map(_.to))
+    val C = mutable.Map.empty[DNR, Set[DNR]].withDefaultValue(Set.empty[DNR])
+    val visited = mutable.Set.empty[DNR]
+    def closure(dnr: DNR): Unit = {
+      if (!visited(dnr)) {
+        visited.update(dnr, included = true)
+        val b = Set.newBuilder[DNR]
+        children(dnr).foreach { x =>
+          closure(x)
+          C(x).foreach(b += _)
+        }
+        C.update(dnr, b.result())
       }
     }
-    G.keys.foreach(iter)
-    val map = G.result()
+    refs.foreach(x => closure(x.from))
+    val map = C.result()
     (for {
       key <- map.keys
       value <- map(key)
@@ -58,15 +63,25 @@ object Main extends App {
   val dnrRegepx = "[Dd][Nn][Rr] ([0-9]+-\\d\\d\\d\\d)".r
   val fileRegexp = ".*/(.*).txt".r
 
+  def extractDnr(file: File): String = {
+    fileRegexp
+      .findFirstMatchIn(file.getAbsolutePath)
+      .get
+      .group(1)
+      .replaceAll("[ ,].*", "")
+  }
+
+  def getMissingDnr: Set[DNR] = {
+    val uniqueDnr = gimmeTxt.map(extractDnr).map(DNR.apply).toSet
+    val uniqueReferencedDnr = getReferences(gimmeTxt).map(_.to)
+    uniqueDnr.intersect(uniqueReferencedDnr)
+  }
+
   def getReferences(textFiles: Seq[File]) = {
     val references = Set.newBuilder[Reference]
     textFiles.foreach { file =>
       val text = readFile(file)
-      val dnrNumber = fileRegexp
-        .findFirstMatchIn(file.getAbsolutePath)
-        .get
-        .group(1)
-        .replaceAll("[ ,].*", "")
+      val dnrNumber = extractDnr(file)
       dnrRegepx.findAllMatchIn(text).foreach { dnrMatch =>
         val reference = dnrMatch.group(1)
         if (dnrNumber != reference) {
@@ -82,12 +97,15 @@ object Main extends App {
     Seq("dot", "-Tsvg", "target/out.dot", "-o", "target/out.svg").!
   }
 
-  def writeDotFile(): Unit = {
+  def writeDotFile(transitive: Boolean): Unit = {
     val refs = getReferences(gimmeTxt)
-    Files.write(Paths.get("target", "out.dot"), dotFile(refs).getBytes)
+    val toRun = if (transitive) transitiveClosure(refs) else refs
+    println(toRun == refs)
+    Files.write(Paths.get("target", "out.dot"), dotFile(toRun).getBytes)
   }
 
-  writeDotFile()
-  runGraphviz()
+//  writeDotFile(transitive = true)
+//  runGraphviz()
+  println(getMissingDnr)
   println("Completed JO!")
 }
