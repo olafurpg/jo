@@ -28,4 +28,4 @@ object HelloWorld {
   }
 }
 
-HelloWorld.main(Array())
+// HelloWorld.main(Array())
